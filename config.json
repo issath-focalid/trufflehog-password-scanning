@@ -1,0 +1,12 @@
+{
+    "database": {
+      "user": "dbuser",
+      "password": "dbpassword",
+      "host": "localhost",
+      "port": 5432,
+      "name": "mydatabase"
+    },
+    "apiKey": "abcdef1234567890abcdef1234567890",
+    "secretKey": "anotherSecretKey"
+  }
+  
