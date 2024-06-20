@@ -2,3 +2,6 @@ https://admin:admin@the-internet.herokuapp.com/basic_auth
 
 mysql_secret_key = 74h4fh74nfkBEFKk
 mysql_url = root://100.187.178.9
+
+aws_access_key_id = AKIAXYZDQCEN4B6JSJQIUSH
+aws_secret_access_key = Tg0pz8Jii8hkLx4+PnUisM8GmKs3a2DK+9qz/liesd
